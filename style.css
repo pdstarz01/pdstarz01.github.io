@@ -1,7 +1,22 @@
 body {
     background-color: black;
+    color: white;
 }
-h1 {
+.name {
+    background-color: white;
     text-align: center;
-    color: purple;
+    color: Black;
+}
+.section1 {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.section2 {
+    background-color: white;
+    color: black;
+}
+.section3 {
+    background-color: rgb(154, 154, 154);
+    color: black;
 }
